@@ -35,3 +35,16 @@ Screenshots will be added here.
 ## Developer
 
 Oday Almaqousi
+## Screenshots
+
+### Dashboard
+![TaskFlow Dashboard](Screenshot%20%28243%29.png)
+
+### Tasks
+![TaskFlow Tasks](Screenshot%20%28244%29.png)
+
+### Calendar
+![TaskFlow Calendar](Screenshot%20%28245%29.png)
+
+### Statistics
+![TaskFlow Statistics](Screenshot%20%28246%29.png)
